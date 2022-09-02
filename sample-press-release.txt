@@ -1,0 +1,5 @@
+You are welcome to use/reuse/remix/retain the materials from this site in your own courses. Nearly all the material in this web site is Copyright Creative Commons Attribution. These are links to downloadable content as well as links to other sources of this course material.
+
+If your LMS supports IMS Learning Tools Interoperabilty® version 1.x, you can login, and request access to the tools on this site. Make sure you indicate whether you need an LTI 1.x key. You will be given instructions on how to use your credentials once you get your key.
+
+Download course material as an IMS Common Cartridge®, to import into an LMS like Sakai, Moodle, Canvas, Desire2Learn, Blackboard, or similar. After loading the Cartridge, you will need an LTI key and secret to provision the LTI-based tools provided in that cartridge.
